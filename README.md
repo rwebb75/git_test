@@ -1,0 +1,1 @@
+This is Skip's first git project.
